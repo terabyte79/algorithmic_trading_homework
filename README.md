@@ -22,15 +22,15 @@ Answer:
 
 svm_model 
 
-![svm_model](/Users/ramiz/Desktop/Fintech/algorithmic_trading_homework/comparison.png)
+![svm_model](comparison.png)
 
 svm_model_1 
 
-![svm_model_1](/Users/ramiz/Desktop/Fintech/algorithmic_trading_homework/comparison_1.png)
+![svm_model_1](comparison_1.png)
 
 lg_model
 
-![lg_model](/Users/ramiz/Desktop/Fintech/algorithmic_trading_homework/lg_comparison.png)
+![lg_model](lg_comparison.png)
 
 
 1. For the svm_model with lower training data and a rolling window, the strategic returns outperform the actual returns.
